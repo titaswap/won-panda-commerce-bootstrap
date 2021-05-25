@@ -1,0 +1,14 @@
+.price-button{
+    background-color: #ff3082;
+}
+.image-slideshow{
+    background-color:#fceae8 ;
+    border-radius: 1em;
+}
+.border-line{
+    border: 0px;
+    border-radius: .5em;
+}
+.price{
+    color: #ff3082;
+}
