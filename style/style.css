@@ -1,5 +1,6 @@
-.price-button{
+.price-button, .shoes-button{
     background-color: #ff3082;
+    border-radius: .5em;
 }
 .image-slideshow{
     background-color:#fceae8 ;
@@ -14,4 +15,14 @@
 }
 .category-card{
    border-radius: .5em;
+}
+.shoes-card, .shoes-footer{
+    border: 0;
+    background-color: white;
+    border-radius: 1em;
+}
+.Subscribe{
+    height: 300px;
+    background-color:#fceae8 ;
+    border-radius: .5em;
 }
